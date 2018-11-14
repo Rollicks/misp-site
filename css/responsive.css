@@ -266,6 +266,22 @@
     #volunteer .join_us a.vol_cust_btn {
         font-size: 10px;
     }
+
+    #tasb {
+        min-height: 260px;
+    }
+    #tasb .vol_area {
+        padding-top: 60px;
+    }
+    #tasb .volunteer_content h3 {
+        font-size: 20px;
+    }
+    #tasb .volunteer_content p {
+        font-size: 11px;
+    }
+    #tasb .join_us a.vol_cust_btn {
+        font-size: 10px;
+    }
     #portfolio {
         padding-bottom: 20px;
     }
@@ -672,7 +688,22 @@
         font-size: 11px;
     }
     #volunteer .join_us a.vol_cust_btn {
+        font-size: 10px;#volunteer {
+        min-height: 260px;
+    }
+    #tasb .vol_area {
+        padding-top: 60px;
+    }
+    #tasb .volunteer_content h3 {
+        font-size: 20px;
+    }
+    #tasb .volunteer_content p {
+        font-size: 11px;
+    }
+    #tasb .join_us a.vol_cust_btn {
         font-size: 10px;
+    }
+
     }
     #portfolio {
         padding-bottom: 20px;
@@ -1056,6 +1087,18 @@
         font-size: 11px;
     }
     #volunteer .join_us a.vol_cust_btn {
+        font-size: 10px;
+    }
+    #tasb .vol_area {
+        padding-top: 60px;
+    }
+    #tasb .volunteer_content h3 {
+        font-size: 20px;
+    }
+    #tasb .volunteer_content p {
+        font-size: 11px;
+    }
+    #tasb .join_us a.vol_cust_btn {
         font-size: 10px;
     }
     div#project {
@@ -1442,6 +1485,18 @@
         font-size: 11px;
     }
     #volunteer .join_us a.vol_cust_btn {
+        font-size: 10px;
+    }
+    #tasb .vol_area {
+        padding-top: 60px;
+    }
+    #tasb .volunteer_content h3 {
+        font-size: 20px;
+    }
+    #tasb .volunteer_content p {
+        font-size: 11px;
+    }
+    #tasb .join_us a.vol_cust_btn {
         font-size: 10px;
     }
     div#project {
